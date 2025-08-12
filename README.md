@@ -1,7 +1,7 @@
 # HelloBetter Data Engineering Pipeline
 
 ## 📊 Workflow
-![Workflow Diagram](<img width="2607" height="2115" alt="workflow" src="https://github.com/user-attachments/assets/65b313f2-1160-4136-9be8-001abe9948e2" />)  
+![Workflow Diagram](https://github.com/user-attachments/assets/cecd64e4-e159-4c39-b200-606d6f10ba99)
 
 ---
 
@@ -20,7 +20,8 @@ The pipeline:
 ## 🛠 Tools & Technologies
 
 - **Cloud Platform:** Amazon Web Services (AWS)
-- **Programming Language:** Python (data ingestion workflows, pipeline logic)
+- **Programming Language:** Python (data ingestion workflows, pipeline logic
+
 - **Data Analytics:** SQL (exploration, analysis, querying)
 - **Processing Engine:** Apache Spark (ETL in AWS Glue)
 - **Storage:** Amazon S3, Amazon RDS (PostgreSQL)
